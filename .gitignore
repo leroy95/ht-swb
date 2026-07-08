@@ -2,3 +2,12 @@
 *.pptx
 generate_spring_ppt.py
 generate_wenchuang_ppt.py
+
+# IDE & 工具配置
+.claude/
+.obsidian/
+.workbuddy/
+
+# Python 缓存
+__pycache__/
+*.pyc
